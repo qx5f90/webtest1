@@ -1,2 +1,2 @@
-const myHeading = document.querySelector("h1");
-myHeading.textContent = "Hello World!";
+let correctNumber = Math.floor(Math.random() * 100) + 1;
+
